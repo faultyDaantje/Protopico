@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "RP2040")(type "KiCad")(uri "D:/Raspberry pi/KiCAD/2022-04-01_14-09-18/footprints.pretty")(options "")(descr ""))
+  (lib (name "MCP23017")(type "KiCad")(uri "D:/Raspberry pi/KiCAD/2022-04-14_14-30-26/footprints.pretty")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "D:/Raspberry pi/KiCAD/custom.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "C:/Users/daniv/OneDrive/Documenten/KiCad/Minimal/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
+)
